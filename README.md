@@ -15,9 +15,9 @@
 
 ## Connect with me
 [[params.social]]
-icon = "linkedin"
-icon_pack = "fa"
-link = "https://www.linkedin.com/in/sharayu-thosar/"
+  icon = "linkedin"
+  icon_pack = "fa"
+  link = "https://www.linkedin.com/in/sharayu-thosar/"
 
 
 #### On my GitHub profile, I share some of my projects that I've worked on personally and as a part of my academics that include skills of Data Analysis, Data Management, Data Visualization and Machine Learning. 
