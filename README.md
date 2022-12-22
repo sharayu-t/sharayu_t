@@ -9,9 +9,12 @@
 * 📚 When I'm not working on data, I read about psychology and spirituality while exploring cafe's around boston!
 
 ## My Journey
-* ✨ I was introduced to data during my undergraduate studies in Mechanical Engineering.
+* ✨ I was introduced to data by being a part of Database committee during my undergraduate studies in Mechanical Engineering.
 * 💡 My career trajectory changed when I took Data Analytics as one of my elective subject, worked on a few projects and **secured two internships in the field of Data Science in my final semester**.
 * 🎓 After my graduation in 2021, I completed a 1 year **Post Graduate Diploma in Data Science and AI** along with working full time as a **Tableau Developer at Intelimek Systems.**
+
+## Connect with me
+[[![Medium](https://medium.com/@sharayu-thosar]
 
 
 #### On my GitHub profile, I share some of my projects that I've worked on personally and as a part of my academics that include skills of Data Analysis, Data Management, Data Visualization and Machine Learning. 
