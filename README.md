@@ -5,8 +5,8 @@
 ## My Current Status
 * 💼 Pursuing Master's in Data Analytics at Northeastern Univeristy.
 * 🌱 Currently learning Computation and Visualization for Analytics and Data Mining.
-* 🔎 Looking for Co-op/Internship opportunities as a Data Analyst for Fall 2023. 
-* 📚 When I'm not working on data, I love to read about psychology and spirituality while exploring cafe's around boston!
+* 🔎 Looking for Co-op/Internship opportunities as a Data Analyst for Fall/Summer 2023. 
+* 📚 When I'm not working on data, I read about psychology and spirituality while exploring cafe's around boston!
 
 ## My Journey
 * ✨ I was introduced to data during my undergraduate studies in Mechanical Engineering.
