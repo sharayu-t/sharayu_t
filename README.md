@@ -1,4 +1,4 @@
-# Hi there 👋! I'm Sharayu
+# <div align="center"> Hi, I'm Sharayu 👋!  </div>
 
 ## About Me
 I was introduced to data during my undergraduate studies in Mechanical Engineering. My career trajectory changed when I took Data Analytics as one of my elective subject, worked on a few projects and secured two internships in the field of Data Science in my final semester. Later, I completed a 1 year Post Graduate Diploma in Data Science and AI along with working full time as a Tableau Developer at Intelimek Systems. Currently, I am pursuing Master's in Data Analytics at Northeastern Univeristy. 
