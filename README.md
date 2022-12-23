@@ -1,6 +1,6 @@
 # <div align="center"> Hi, I'm Sharayu 👋  </div>
 
-### I love working with data. Developing codes and applications with the data to Analyze, Predict, Visualize, and Data Storytelling interests me. I'm on a journey to learn, explore, and get mesmerized by what data can do!
+### I love working with data. I'm passionate about developing codes and applications to Analyze, Predict and Visualize data. Data Storytelling interests me. I'm on a journey to learn, explore, and get mesmerized by what data can do!
 
 ## My Current Status
 * 💼 Pursuing Master's in Data Analytics at Northeastern Univeristy.
