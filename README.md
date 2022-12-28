@@ -18,6 +18,8 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sharayu-thosar/)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sharayu-thosar)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharayu.thosar@gmail.com)
+[![](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/sharayuthosar)
+
 
 
 #### On my GitHub profile, I share some of my projects that I've worked on personally and as a part of my academics that include skills of *Data Analysis, Data Management, Data Visualization and Machine Learning.*
