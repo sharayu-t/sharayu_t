@@ -12,11 +12,11 @@
 * 💡 My career trajectory changed when I took Data Analytics as one of my elective subjects, worked on a few projects, and **secured two internships in the field of Data Science in my final semester**.
 * 🌱 Interning at startups for 6 months, I acquired knowledge predictive modeling and ETL pipelines.
 * 🚀 Following my undergraduate studies, I worked for 1 year as a **Business Intelligence Developer** at Intelimek Systems, elevating data-driven decision-making.
-* 📚 To further deepen my expertise, I pursued a Post Graduate Diploma in Data Science and AI, where I specialized in machine learning and AI techniques.
-* 📈 My academic journey continued with a Master’s in Data Analytics Engineering at Northeastern University, where I excelled in advanced analytics and visualization techniques.
-* 🎓 During my master's, I mentored students as a Teaching Assistant for 1 year, simplifying complex analytics concepts and guiding them through their projects.
-* 🚀 My industry experience expanded during a 6-month Data Scientist Co-op at Schneider Electric, where I built predictive maintenance algorithms and real-time monitoring dashboards.
-* 🔬 Currently, I am applying my skills as a Research Assistant, utilizing NLP and statistical analysis to explore cutting-edge research in manufacturing.
+* 📚 To further deepen my expertise, I pursued a **Post Graduate Diploma in Data Science and AI**, where I specialized in machine learning and AI techniques.
+* 📈 My academic journey continued with a **Master’s in Data Analytics Engineering at Northeastern University**, where I excelled in advanced analytics and visualization techniques.
+* 🎓 During my master's, I mentored students as a **Teaching Assistant** for 1 year, simplifying complex analytics concepts and guiding them through their projects.
+* 🚀 My industry experience expanded during a 6-month **Data Scientist Co-op at Schneider Electric**, where I built predictive maintenance algorithms and real-time monitoring dashboards.
+* 🔬 Currently, I am applying my skills as a **Research Assistant**, utilizing NLP and statistical analysis to explore cutting-edge research in manufacturing.
 * 🌐 Throughout this journey, I've engaged in diverse projects, from customer segmentation to turbine failure forecasting, showcasing the versatile applications of data science.
 * 🛠 Proficient in Python, R, SQL, and ML frameworks, I continually seek to expand my knowledge and stay at the forefront of technological advancements.
 
